@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>LQD STORE</title>
+    <title>HKT STORE</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Bootstrap Ecommerce Template" name="keywords">
     <meta content="Bootstrap Ecommerce Template Free Download" name="description">
@@ -32,7 +32,7 @@
                 <div class="col-md-3">
                     <div class="logo">
                         <a href="">
-                            <img src="img/logo.jpg" alt="Logo">
+                            <img src="img/logoHKT.png" alt="Logo">
                         </a>
                     </div>
                 </div>
