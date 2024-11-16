@@ -7,7 +7,7 @@
                         <div class="footer-widget">
                             <h1>Cửa hàng điện tử</h1>
                             <p>
-                               LQD STORE là một cửa hàng điện tử hoạt động trong lĩnh vực kinh doanh các dòng sản phẩm laptop. Với mong muốn mang lại trải nghiệm và những sản phẩm tốt nhất đến tay khách hàng, LQD đã không ngừng lắng nghe ý kiến đánh giá của khách hàng để sửa và nâng cấp các chức năng hoàn thiện hơn.
+                               HKT STORE là một cửa hàng điện tử hoạt động trong lĩnh vực kinh doanh các dòng sản phẩm laptop. Với mong muốn mang lại trải nghiệm và những sản phẩm tốt nhất đến tay khách hàng, LQD đã không ngừng lắng nghe ý kiến đánh giá của khách hàng để sửa và nâng cấp các chức năng hoàn thiện hơn.
                             </p>
                       
                     <!-- <div class="col-lg-3 col-md-6">

@@ -3,7 +3,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>LQD STORE ADMIN</title>
+        <title>HKT STORE ADMIN</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="Bootstrap Ecommerce Template" name="keywords">
         <meta content="Bootstrap Ecommerce Template Free Download" name="description">
