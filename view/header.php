@@ -66,3 +66,35 @@
         </div>
     </div>
     <!-- Top Header End -->
+
+    <!-- Header Start -->
+    <div class="header">
+        <div class="container">
+            <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+                <a href="#" class="navbar-brand">MENU</a>
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
+                    <div class="navbar-nav m-auto">
+                        <a href="index.php" class="nav-item nav-link active">Trang chủ </a>
+                        <a href="index.php?act=adddm" class="nav-item nav-link">Danh mục</a>
+                        <a href="index.php?act=addsp" class="nav-item nav-link">Sản phẩm</a>
+                        <div class="nav-item dropdown">
+                            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Trang khác</a>
+                            <div class="dropdown-menu">
+                                <a href="index.php?act=addvc" class="dropdown-item">Voucher</a>
+                                <a href="index.php?act=listdh" class="dropdown-item">Đơn hàng</a>
+                                <a href="index.php?act=listdangky" class="dropdown-item">User</a>
+                                <a href="index.php?act=listlh" class="dropdown-item">liên hệ</a>
+                                <a href="index.php?act=listbl" class="dropdown-item">bình luận</a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+    <!-- Header End -->
