@@ -7,7 +7,7 @@
                         <div class="footer-widget">
                             <h1>Cửa hàng điện tử</h1>
                             <p>
-                               HKT STORE là một cửa hàng điện tử hoạt động trong lĩnh vực kinh doanh các dòng sản phẩm laptop. Với mong muốn mang lại trải nghiệm và những sản phẩm tốt nhất đến tay khách hàng, LQD đã không ngừng lắng nghe ý kiến đánh giá của khách hàng để sửa và nâng cấp các chức năng hoàn thiện hơn.
+                               HKT STORE là một cửa hàng điện tử hoạt động trong lĩnh vực kinh doanh các dòng sản phẩm laptop. Với mong muốn mang lại trải nghiệm và những sản phẩm tốt nhất đến tay khách hàng, HKT đã không ngừng lắng nghe ý kiến đánh giá của khách hàng để sửa và nâng cấp các chức năng hoàn thiện hơn.
                             </p>
                       
                     <!-- <div class="col-lg-3 col-md-6">
@@ -28,7 +28,7 @@
                                 <p><i class="fa fa-map-marker"></i>Địa chỉ: 13 P. Trịnh Văn Bô, <br>
                                     Xuân Phương,Nam Từ Liêm, Hà Nội</p>
                                 <p><i class="fa fa-envelope"></i>chuanghira@gmail.com</p>
-                                <p><i class="fa fa-phone"></i>0333456789</p> 
+                                <p><i class="fa fa-phone"></i>0334442709</p> 
                                     <a href=""><i class="fa fa-facebook"></i></a>
                                     <a href=""><i class="fa fa-youtube"></i></a> </div>
                     </div>

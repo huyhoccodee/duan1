@@ -1,5 +1,5 @@
 
-        <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8">
@@ -32,7 +32,7 @@
                     <div class="col-md-3">
                         <div class="logo">
                             <a href="index.php">
-                                <img src="../img/logo.jpg" alt="Logo">
+                                <img src="../img/logoHKT.png" alt="Logo">
                             </a>
                         </div>
                     </div>
@@ -65,8 +65,8 @@
                                     <a href="index.php?act=addvc" class="dropdown-item">Voucher</a>
                                     <a href="index.php?act=listdh" class="dropdown-item">Đơn hàng</a>
                                     <a href="index.php?act=listdangky" class="dropdown-item">User</a>
-                                    <a href="index.php?act=listlh" class="dropdown-item">liên hệ</a>
-                                    <a href="index.php?act=listbl" class="dropdown-item">bình luận</a>
+                                    <a href="index.php?act=listlh" class="dropdown-item">Liên hệ</a>
+                                    <a href="index.php?act=listbl" class="dropdown-item">Bình luận</a>
                                 </div>
                             </div>
                             

@@ -96,7 +96,7 @@ $getCountOrders = count(loadall_donhang());
         <table class="table table-bordered">
     <thead class="thead-dark">
     <tr>
-    <th>Mã danh mục</th>
+                        <th>Mã danh mục</th>
                         <th>Tên danh mục</th>
                         <th>Số lượng</th>
                         <th>Giá cao nhất</th>
