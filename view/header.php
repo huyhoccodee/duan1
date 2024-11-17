@@ -79,16 +79,14 @@
                 <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                     <div class="navbar-nav m-auto">
                         <a href="index.php" class="nav-item nav-link active">Trang chủ </a>
-                        <a href="index.php?act=adddm" class="nav-item nav-link">Danh mục</a>
-                        <a href="index.php?act=addsp" class="nav-item nav-link">Sản phẩm</a>
+                        <a href="index.php?act=sanpham" class="nav-item nav-link">Sản phẩm</a>
+                        <a href="index.php?act=gioithieu" class="nav-item nav-link">Voucher</a>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Trang khác</a>
                             <div class="dropdown-menu">
-                                <a href="index.php?act=addvc" class="dropdown-item">Voucher</a>
-                                <a href="index.php?act=listdh" class="dropdown-item">Đơn hàng</a>
-                                <a href="index.php?act=listdangky" class="dropdown-item">User</a>
-                                <a href="index.php?act=listlh" class="dropdown-item">liên hệ</a>
-                                <a href="index.php?act=listbl" class="dropdown-item">bình luận</a>
+                                <a href="index.php?act=lienhe" class="dropdown-item">liên hệ</a>
+                                <a href="index.php?act=chinhsach" class="dropdown-item">Chính sách</a>
+                                <a href="index.php?act=taikhoan" class="dropdown-item">Tài khoản của tôi</a>
                             </div>
                         </div>
 
@@ -97,4 +95,3 @@
             </nav>
         </div>
     </div>
-    <!-- Header End -->
