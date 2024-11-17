@@ -1,22 +1,22 @@
 <?php
-session_start();
-if (isset($_SESSION['user'])) {
-    $id_user= $_SESSION['user']['id'];
-}
+// session_start();
+// if (isset($_SESSION['user'])) {
+//     $id_user= $_SESSION['user']['id'];
+// }
 
-ob_start();
+// ob_start();
 
-if(!isset($_SESSION['giohang'])) $_SESSION['giohang']=[];
+// if(!isset($_SESSION['giohang'])) $_SESSION['giohang']=[];
 include "view/header.php";
 include "model/pdo.php";
 include "model/dangky.php";
 include "model/danhmuc.php";
 include "model/sanpham.php";
 include "model/donhang.php";
-$sphome= loadall_spkobt($kyw="",$iddm=0);
-$sptop10=load_sanpham_top10();
-$listsize=loadall_size();
-$listmau=loadall_mau();
+// $sphome= loadall_spkobt($kyw="",$iddm=0);
+// $sptop10=load_sanpham_top10();
+// $listsize=loadall_size();
+// $listmau=loadall_mau();
 if (isset($_GET['act'])&&($_GET['act']!="")) {
     $act=$_GET['act'];
     switch ($act) {
